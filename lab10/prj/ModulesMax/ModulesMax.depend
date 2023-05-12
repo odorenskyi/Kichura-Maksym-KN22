@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1683882506 source:c:\users\gigabyte\desktop\bmtp_labs\kichura-maksym-kn22\lab10\prj\modulesmax\main.cpp
+	"Modules.h"
+	<math.h>
+	<fstream>
+	<iostream>
+	<string>
+	<algorithm>
+	<clocale>
+	<time.h>
+	<map>
+	<unordered_map>
+	<bitset>
+
+1683878889 c:\users\gigabyte\desktop\bmtp_labs\kichura-maksym-kn22\lab10\prj\modulesmax\main.h
+	<string>
+
+1683878889 c:\users\gigabyte\desktop\bmtp_labs\kichura-maksym-kn22\lab10\prj\modulesmax\modules.h
+	<string>
+

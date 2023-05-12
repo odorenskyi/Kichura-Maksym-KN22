@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1683882372 source:c:\users\gigabyte\desktop\bmtp_labs\kichura-maksym-kn22\lab10\prj\testdriver\main.cpp
+	<iostream>
+	<Modules.h>
+	<string>
+
+1683878889 c:\users\gigabyte\desktop\bmtp_labs\kichura-maksym-kn22\lab10\prj\modulesmax\modules.h
+	<string>
+
